@@ -1,0 +1,3 @@
+# Where the kube-agents audits look for declared-intent notes.
+paths:
+  - knowledge/
